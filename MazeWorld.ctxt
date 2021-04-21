@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MazeWorld
+comment0.text=\r\n\ Platform\ for\ the\ Maze.\ \ \ \r\n\ \r\n\ @author\ (Riz)\ \r\n\ @version\ (1)\r\n
+comment1.params=
+comment1.target=MazeWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MazeWorld.\r\n\ NOTE\:\ Each\ panel\ is\ 133\ x\ 133.\ \r\n\ NOTE\:\ Lining\ up\ requires\ you\ to\ change\ either\ the\ short\ side\ of\ the\ edge\ by\ 12/2\ (6)\ or\ the\ long\ side\ by\ 25/2\ (13(12.5\ but\ loss\ of\ precision)).\ \r\n\ \ \r\n
+numComments=2
